@@ -37,5 +37,5 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: [(add link)](https://www.linkedin.com/in/aadish-bane-292a221ba/)
+- Email: (add email)(aadishbane23022005@gmail.com)
