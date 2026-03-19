@@ -8,7 +8,7 @@
 
 ## 🧠 Tech Stack
 - 💻 Languages: Python, C++, C  
-- 🤖 AI/ML: CNNs, Transformers, NLP  
+- 🤖 AI/ML: CNNs, Transformers, NLP , LLM's  
 - 🛠 Tools: TensorFlow, PyTorch, OpenCV, Git  
 
 ---
