@@ -20,13 +20,13 @@
 - Uses MFCC, Mel Spectrogram features  
 - K-Fold Cross Validation for robustness  
 
-### 🔹 Excuse Generator (AI App)
+### 🔹 Multi-model language generation-based system using LLM's
 - NLP-based intelligent excuse generation  
 - GUI + PDF output + multimodal support  
 - Real-world usable application  
 
 ### 🔹 Algorithmic Trading Bot
-- Displays OHLC market data  
+- Displays OHLC market data and informs the user if they have to BUY/SELL/HOLD
 - Built using Python  
 
 ---
