@@ -20,7 +20,7 @@
 - Uses MFCC, Mel Spectrogram features  
 - K-Fold Cross Validation for robustness  
 
-### 🔹 Multi-model language generation-based system using LLM's
+### 🔹 Multi-model Excuse generation-based system using LLM's
 - NLP-based intelligent excuse generation  
 - GUI + PDF output + multimodal support  
 - Real-world usable application  
