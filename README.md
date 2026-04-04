@@ -31,11 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![Aadish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aadish2423&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 - LinkedIn: [Aadish Bane](https://www.linkedin.com/in/aadish-bane-292a221ba/)
 - Email: [Gmail](aadishbane23022005@gmail.com)
